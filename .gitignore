@@ -1,0 +1,13 @@
+# Exclude the following from git repository
+*.cfg
+*.weights
+*.zip
+images/
+test_images/
+*.mov
+frames/
+coco_annotations.txt
+__pycache__/
+.ipynb_checkpoints/
+frames/
+UDP/
