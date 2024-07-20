@@ -1,0 +1,19 @@
+# Exclude from Docker image build
+*.zip
+images/
+test_images/
+*.mov
+frames/
+*.mp4
+*.ipynb
+.ipynb_checkpoints/
+*.git
+*.gitignore
+*.md
+*.csv
+coco_annotations.txt
+__pycache__/
+UDP/
+
+# outdated script, not used
+data_pipeline.py
